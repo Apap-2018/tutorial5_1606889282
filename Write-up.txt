@@ -1,0 +1,3 @@
+Jelaskan perbedaan antara th:include dengan th:replace.
+th: include = meletakkan isi tag pada fragment ke isi tag
+th: replace = menggantikan seluruh isi yang ada pada tag dengan yang ada di dalam fragment
